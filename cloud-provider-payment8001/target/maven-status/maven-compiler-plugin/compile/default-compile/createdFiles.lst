@@ -1,7 +1,0 @@
-com\liuurick\springcloud\dao\PaymentDao.class
-com\liuurick\springcloud\service\impl\PayServiceImpl.class
-com\liuurick\springcloud\entity\Payment.class
-com\liuurick\springcloud\entity\CommonResult.class
-com\liuurick\springcloud\service\PaymentService.class
-com\liuurick\springcloud\PaymentMain8001.class
-com\liuurick\springcloud\controller\PaymentController.class
